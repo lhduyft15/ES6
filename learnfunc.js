@@ -10,7 +10,7 @@ let add = (a ,b) => a + b ;
 let sum = add(5,5);
 console.log(sum);
 
-//Ex3: 
+//Ex3: Func return a func
 
 let Output = (a,b) => console.log("I love code <", a + b);
 let Learn = (hard) => {
